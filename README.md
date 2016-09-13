@@ -1,2 +1,3 @@
 # 3dpaint
-App for 3D painting / texturing of models
+Freeware app for 3D painting / texturing of models
+Windows
