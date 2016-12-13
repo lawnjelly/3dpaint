@@ -10,3 +10,5 @@ Zip file is ~1.5 megs.
 Please report bugs and issues  
 
 Thank you :)
+
+I am currently hard at work on a major update (0.20) which features a more physically based workflow with normal mapping, specular and metallic channels. Much is already working, I'm expecting to be able to release some time after xmas.
