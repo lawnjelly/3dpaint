@@ -1,5 +1,6 @@
 # 3dpaint
-Windows freeware app for 3D painting / texturing of models
+Freeware app for 3D painting / texturing of models
+Windows and Linux
 
 Major update (0.20) features a more physically based workflow with normal mapping, specular and metallic channels. However it does require OpenGL 3.0. If your PC does not support this, version 0.19 may still work and allow diffuse painting.
 
@@ -10,6 +11,8 @@ Alpha version - Download the latest .zip file, unzip and run. No installation ne
 Zip file is ~2 megs.
 
 Please report bugs, issues and feature requests on github, in the 'issues' tab
+
+All versions up to 0.24 are windows, 0.24 onwards is linux. If there is interest I will make windows builds of later versions.
 
 Thank you :)
 
