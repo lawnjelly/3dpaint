@@ -16,6 +16,8 @@ All versions up to 0.24 are windows, 0.24 onwards is linux. If there is interest
 
 Thank you :)
 
+# ChangeLog
+* 0.30 Fixed SDL bug using too much CPU. Fixed major layer blending bug. 2D window with clone and healing brush. Tips for keyboard shortcuts in status bar. 
 
 # System Requirements
 * OpenGL 3.0
