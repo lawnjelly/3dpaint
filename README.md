@@ -6,7 +6,6 @@ Major update (0.20) features a more physically based workflow with normal mappin
 
 See video in action:
 https://www.youtube.com/watch?v=q0JRYq7JtWg
-https://www.youtube.com/watch?v=yHfJI90AiIs
 
 Alpha version - Download the latest .zip file, unzip and run. No installation necessary. :)
 Zip file is ~2 megs.
