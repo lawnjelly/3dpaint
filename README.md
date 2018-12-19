@@ -4,7 +4,8 @@ Windows and Linux
 
 Major update (0.20) features a more physically based workflow with normal mapping, specular and metallic channels. However it does require OpenGL 3.0. If your PC does not support this, version 0.19 may still work and allow diffuse painting.
 
-See video in action:  
+See video in action:
+https://www.youtube.com/watch?v=q0JRYq7JtWg
 https://www.youtube.com/watch?v=yHfJI90AiIs
 
 Alpha version - Download the latest .zip file, unzip and run. No installation necessary. :)
