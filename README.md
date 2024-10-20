@@ -1,4 +1,6 @@
 # 3dpaint
+Note: I'm no longer currently actively maintaining 3dpaint, although I use it internally.
+
 Freeware app for 3D painting / texturing of models
 Windows and Linux
 
